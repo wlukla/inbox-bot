@@ -615,6 +615,9 @@ dependencies = [
  "hyper-tls",
  "log",
  "pretty_env_logger",
+ "serde",
+ "serde_derive",
+ "serde_json",
  "teloxide",
  "tokio",
 ]
