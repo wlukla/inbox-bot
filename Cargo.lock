@@ -611,6 +611,8 @@ version = "0.1.0"
 dependencies = [
  "dotenv",
  "dotenv_codegen",
+ "hyper",
+ "hyper-tls",
  "log",
  "pretty_env_logger",
  "teloxide",
